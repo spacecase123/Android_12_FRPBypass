@@ -1,8 +1,10 @@
 <p align="center">
   
 <img width="200px" src="https://www.nr1.nu/archive/banners/nr1_logo.png" />
-  <h2 align="center"># Hack Any Samsung Device with Android 12 Installed. </h2>
+  <h2 align="center"># Hack Samsung Galaxy S10 Plus Android 12 - FRPBypass</h2>
   <h3 align="center">(Latest Security Patch from: <i>2022-02-01)</i></h3>
+  <h4 align="center">---=== All Models Works And Are Vulnerable IF Android 12 Is Installed ===---</i></h4>
+
 </p>
 
 <h5 align="center">wuseman cracks the latest security patch AGAIN <br>Where's the challenge Samsung?</h3>
